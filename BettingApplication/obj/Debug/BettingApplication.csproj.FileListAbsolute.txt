@@ -1,0 +1,4 @@
+C:\Users\Andreas\Dropbox\Koder\BettingApplication\BettingApplication\BettingApplication\BettingApplication\obj\Debug\BettingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Dropbox\Koder\BettingApplication\BettingApplication\BettingApplication\BettingApplication\obj\Debug\BettingApplication.Migrations.InitialCreate.resources
+C:\Users\Andreas\Dropbox\Koder\BettingApplication\BettingApplication\BettingApplication\BettingApplication\obj\Debug\BettingApplication.Migrations.updatedatabase.resources
+C:\Users\Andreas\Dropbox\Koder\BettingApplication\BettingApplication\BettingApplication\BettingApplication\obj\Debug\BettingApplication.csproj.GenerateResource.Cache
